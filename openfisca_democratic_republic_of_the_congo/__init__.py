@@ -12,8 +12,8 @@ import os
 
 from openfisca_core.taxbenefitsystems import TaxBenefitSystem
 
-from openfisca_country_template import entities
-from openfisca_country_template.situation_examples import couple
+from openfisca_democratic_republic_of_the_congo import entities
+from openfisca_democratic_republic_of_the_congo.situation_examples import couple
 
 
 COUNTRY_DIR = os.path.dirname(os.path.abspath(__file__))
